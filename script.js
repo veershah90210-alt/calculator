@@ -19,3 +19,8 @@ function calculate()
         display.value= "ERROR!";
     }
 }
+
+function backspace()
+{
+    display.value=display.value.substring(0,display.value.length-1);
+}
