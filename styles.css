@@ -20,8 +20,9 @@ body{
     border: none;
     font-size: 5rem;
     padding: 20px;
-    text-align: right;
+    text-align: left;
     width: 100%;
+    color: white;
 }
 
 button {
