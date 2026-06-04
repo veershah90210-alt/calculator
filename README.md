@@ -1,6 +1,6 @@
 # calculator
 
-made this small calculator using brocode tutorial.
+made this small calculator lol
 
 first selfmade frontend project 
 
